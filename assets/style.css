@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital@0;1&display=swap');
+
+
+body {
+	
+	background-color: #FFFFFF;
+	font-family: 'Bodoni Moda', serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+}
+
+.flex-container {
+	width: 80em;
+	padding: 0 1em;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Bodoni Moda', serif;
+}
+
+img {
+	max-width: 10em;
+	}
+
+p {
+	padding: 0 0 0 2em;
+	font-size: 1em;
+}
+
+.author {
+	padding-left: 3em;
+	font-size: 0.8em;
+}
