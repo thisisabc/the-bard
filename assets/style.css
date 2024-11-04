@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-=======
-:root {
-  --text-color-dark: #0909090;
-  --text-color-light: #FEFEFE;
-}
->>>>>>> main
+>>>>> main
 
 body {
 	display: flex;
@@ -45,7 +39,6 @@ p {
 }
 
 
-<<<<<<< HEAD
 /* Style rules for dark mode */
 @media (prefers-color-scheme: dark) {
   body {
@@ -58,12 +51,3 @@ p {
 	color: black;
   }
 }
-=======
-.dark-mode {
-	color: var(--text-color-light);	
-}
-
-.light-mode {
-	color: var(--text-color-dark);
-}
->>>>>>> main
