@@ -1,4 +1,4 @@
-const quotes = ["Have more than you show, speak less than you know.",
+const quotes = ["Have more than you show,\nspeak less than you know.",
 
 "Harp not on that string.",
 
