@@ -1,8 +1,14 @@
+:root {
+  --text-color-dark: #0909090;
+  --text-color-light: #FEFEFE;
+}
+
 body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	margin: 0;
+	color: var(--text-color-light);
 }
 
 .quote-font {
@@ -20,12 +26,11 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	
 }
 
 img {
 	max-width: 10em;
-	}
+}
 
 p {
 	padding: 0 0 0 1em;
@@ -35,4 +40,13 @@ p {
 .author {
 	padding-left: 3em;
 	font-size: 0.8em;
+}
+
+
+.dark-mode {
+	color: var(--text-color-light);	
+}
+
+.light-mode {
+	color: var(--text-color-dark);
 }
