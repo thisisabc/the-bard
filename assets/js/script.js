@@ -8,7 +8,7 @@ const quotes = ["Have more than you show,<br>speak less than you know.",
 
 "Shine out fair sun,<br>till I have bought a glass,<br>That I may see my shadow as I pass.",
 
-"The world is grown so bad<br>that wrens make pray where eagles dare not perch",
+"The world is grown so bad that wrens make pray where eagles dare not perch",
 
 "I that have neither pity, love, nor fear.",
 
