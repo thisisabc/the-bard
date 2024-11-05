@@ -1,5 +1,3 @@
-
-
 body {
 	display: flex;
 	justify-content: center;
@@ -8,46 +6,35 @@ body {
 }
 
 .quote-font {
-  	font-family: "UnifrakturMaguntia", cursive;
+	font-family: "UnifrakturMaguntia", cursive;
 	font-weight: 400;
 	font-style: normal;
-    font-size: 2em;
+	font-size: 2rem;
 }
-
 
 .flex-container {
 	width: 80em;
-	padding: 0 1em;
 	height: 100vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 
-img {
-	max-width: 10em;
-}
-
-p {
-	padding: 0 0 0 1em;
-	font-size: 1em;
-}
-
 .author {
-	padding-left: 3em;
-	font-size: 0.8em;
+	font-size: 0.8rem;
 }
 
+/* dark mode */
 
-/* Style rules for dark mode */
 @media (prefers-color-scheme: dark) {
-  body {
-	color: white;
-  }
+	body {
+		color: white;
+	}
 }
+
 /* Style rules for light mode */
 @media (prefers-color-scheme: light) {
-  body {
-	color: black;
-  }
+	body {
+		color: black;
+	}
 }
