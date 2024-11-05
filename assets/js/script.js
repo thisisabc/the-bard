@@ -13,9 +13,7 @@ const quotes = ["Have more than you show,<br>speak less than you know.",
 
 "I that have neither pity, love, nor fear.",
 
-"I have no brother,<br>I am like no brother."
-
-];
+"I have no brother,<br>I am like no brother."];
 
 function getQuote() {
   var randomIndex = Math.floor(Math.random() * quotes.length);
