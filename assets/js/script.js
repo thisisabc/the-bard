@@ -1,8 +1,8 @@
-const quotes = ["Have more than you show,\n speak less than you know.",
+const quotes = ["Have more than you show,<br>speak less than you know.",
 
 "Harp not on that string.",
 
-"Was ever woman in this humour wooed?\n Was ever woman in this humour won?",
+"Was ever woman in this humour wooed?<br>Was ever woman in this humour won?",
 
 "Love all, trust a few, do wrong to none.",
 
